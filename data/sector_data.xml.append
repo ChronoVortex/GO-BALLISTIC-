@@ -143,6 +143,8 @@
 		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="3"/>
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AP_GAUSS" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 <mod:findName type="sectorDescription" name="ENGI_HOME">
@@ -169,6 +171,8 @@
 		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="3"/>
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AP_GAUSS" rarity="3"/>
 	</mod:findLike>
 </mod:findName>
 
@@ -322,6 +326,8 @@
 
 		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AP_GAUSS" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 <mod:findName type="sectorDescription" name="SLUG_HOME">
@@ -331,5 +337,7 @@
 
 		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+
+		<mod-append:blueprint name="EB_AP_GAUSS" rarity="3"/>
 	</mod:findLike>
 </mod:findName>  
