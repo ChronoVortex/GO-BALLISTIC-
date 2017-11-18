@@ -8,7 +8,7 @@
 - (CNVTX)* Add assault gauss code
 - (CNVTX) Add about a billion more events
 
-*I need your input on this before I do it.
+* I need your input on this before I do it.
 
 --- FIXES ---
 
