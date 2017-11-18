@@ -2,21 +2,22 @@
 
 --- ADDITIONS ---
 
-- Add new drone images
-- Add railgun, AP gauss, gauss drone, rail drone and machinegun drone sector-specific rarities
-- Add machinegun array code
-- Add assault gauss code
-- Add about a billion more events
+- (RAVEN) Add new drone images
+- (RAVEN) Add railgun, AP gauss, gauss drone, rail drone and machinegun drone sector-specific rarities
+- (CNVTX)* Add machinegun array code
+- (CNVTX)* Add assault gauss code
+- (CNVTX) Add about a billion more events
 
+* I need your input on this before I do it.
 
 --- FIXES ---
 
-- See if Biohazard063 will test the weapon balance
-- Test the events!
+- (CNVTX) See if Biohazard063 will test the weapon balance
+- (CNVTX) Test the events!
 
 
 --- FOR LATER ---
 
-- Full CE compatability patch
-  - CE sector-specific rarities
-  - CE ranged weapon events
+- (CNVTX) Full CE compatability patch
+  - (CNVTX) CE sector-specific rarities
+  - (CNVTX) CE ranged weapon events
