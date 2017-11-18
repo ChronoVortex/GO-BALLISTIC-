@@ -626,7 +626,7 @@
 	<stun>2</stun>
 	<fireChance>1</fireChance>
 	<breachChance>4</breachChance>
-	<cooldown>12</cooldown>
+	<cooldown>15</cooldown>
 	<power>1</power>
 	<cost>80</cost>
 	<bp>7</bp>
@@ -667,7 +667,7 @@
 	<sp>1</sp>
 	<fireChance>2</fireChance>
 	<breachChance>5</breachChance>
-	<cooldown>15</cooldown>
+	<cooldown>17</cooldown>
 	<power>2</power>
 	<cost>95</cost>
 	<bp>7</bp>
@@ -708,7 +708,7 @@
 	<stun>6</stun>
 	<fireChance>3</fireChance>
 	<breachChance>6</breachChance>
-	<cooldown>18</cooldown>
+	<cooldown>19</cooldown>
 	<power>3</power>
 	<cost>110</cost>
 	<bp>7</bp>
