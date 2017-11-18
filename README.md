@@ -19,5 +19,5 @@
 --- FOR LATER ---
 
 - (CNVTX) Full CE compatability patch
-  - (CNVTX) CE sector-specific rarities
+  - (RAVEN) CE sector-specific rarities
   - (CNVTX) CE ranged weapon events
