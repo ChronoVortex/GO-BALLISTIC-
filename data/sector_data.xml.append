@@ -23,6 +23,7 @@
 		<mod-append:blueprint name="EB_AUTOCANNON_LBX_3" rarity="5"/>
 
 		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="3"/>
+		<mod-append:blueprint name="EB_MACHINE_GUN_1_DRONE" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 <mod:findName type="sectorDescription" name="CIVILIAN_SECTOR">
@@ -50,6 +51,7 @@
 		<mod-append:blueprint name="EB_AUTOCANNON_LBX_3" rarity="5"/>
 
 		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="3"/>
+		<mod-append:blueprint name="EB_MACHINE_GUN_1_DRONE" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 
@@ -78,6 +80,7 @@
 		<mod-append:blueprint name="EB_AUTOCANNON_LBX_3" rarity="5"/>
 
 		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="3"/>
+		<mod-append:blueprint name="EB_MACHINE_GUN_1_DRONE" rarity="3"/>
 	</mod:findLike>
 </mod:findName>
 
@@ -116,6 +119,17 @@
 		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="0"/>
 
 		<mod-append:blueprint name="EB_DRONE_DEFENSE_AUTOCANNON_LBX_1" rarity="0"/>
+		<mod-append:blueprint name="EB_RAIL_GUN_1" rarity="0"/>
+		<mod-append:blueprint name="EB_RAIL_GUN_2" rarity="0"/>
+		<mod-append:blueprint name="EB_RAIL_GUN_3" rarity="0"/>
+
+		<mod-append:blueprint name="EB_AP_GAUSS" rarity="0"/>
+
+		<mod-append:blueprint name="EB_DRONE_RAIL_1" rarity="0"/>
+		<mod-append:blueprint name="EB_DRONE_COIL_1" rarity="0"/>
+		<mod-append:blueprint name="EB_DRONE_GAUSS_1" rarity="0"/>
+		<mod-append:blueprint name="EB_MACHINE_GUNN_1_DRONE" rarity="0"/>
+		<mod-append:blueprint name="EB_AP_GAUSS_1_DRONE" rarity="0"/>
 	</mod:findLike>
 </mod:findName>
 
@@ -144,7 +158,17 @@
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="4"/>
 
+		<mod-append:blueprint name="EB_RAIL_GUN_1" rarity="4"/>
+		<mod-append:blueprint name="EB_RAIL_GUN_2" rarity="5"/>
+		<mod-append:blueprint name="EB_RAIL_GUN_3" rarity="5"/>
+
 		<mod-append:blueprint name="EB_AP_GAUSS" rarity="4"/>
+
+		<mod-append:blueprint name="EB_DRONE_RAIL_1" rarity="4"/>
+		<mod-append:blueprint name="EB_DRONE_COIL_1" rarity="4"/>
+		<mod-append:blueprint name="EB_DRONE_GAUSS_1" rarity="3"/>
+		<mod-append:blueprint name="EB_MACHINE_GUN_1_DRONE" rarity="3"/>
+		<mod-append:blueprint name="EB_AP_GAUSS_1_DRONE" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 <mod:findName type="sectorDescription" name="ENGI_HOME">
@@ -172,7 +196,17 @@
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_3" rarity="4"/>
 
+		<mod-append:blueprint name="EB_RAIL_GUN_1" rarity="3"/>
+		<mod-append:blueprint name="EB_RAIL_GUN_2" rarity="4"/>
+		<mod-append:blueprint name="EB_RAIL_GUN_3" rarity="4"/>
+
 		<mod-append:blueprint name="EB_AP_GAUSS" rarity="3"/>
+
+		<mod-append:blueprint name="EB_DRONE_RAIL_1" rarity="3"/>
+		<mod-append:blueprint name="EB_DRONE_COIL_1" rarity="4"/>
+		<mod-append:blueprint name="EB_DRONE_GAUSS_1" rarity="2"/>
+		<mod-append:blueprint name="EB_MACHINE_GUNN_1_DRONE" rarity="2"/>
+		<mod-append:blueprint name="EB_AP_GAUSS_1_DRONE" rarity="5"/>
 	</mod:findLike>
 </mod:findName>
 
@@ -195,6 +229,9 @@
 
 		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
 		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+
+		<mod-append:blueprint name="EB_DRONE_COIL_1" rarity="5"/>
+		<mod-append:blueprint name="EB_MACHINE_GUNN_1_DRONE" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 <mod:findName type="sectorDescription" name="REBEL_SECTOR_MINIBOSS">
@@ -216,6 +253,10 @@
 
 		<mod-append:blueprint name="EB_AUTOCANNON_ROTARY_1" rarity="4"/>
 		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
+
+		<mod-append:blueprint name="EB_DRONE_RAIL_1" rarity="5"/>
+		<mod-append:blueprint name="EB_DRONE_COIL_1" rarity="5"/>
+		<mod-append:blueprint name="EB_MACHINE_GUNN_1_DRONE" rarity="3"/>
 	</mod:findLike>
 </mod:findName>
 
@@ -316,6 +357,10 @@
 		<mod-append:blueprint name="EB_AUTOCANNON_LBX_1" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_1" rarity="4"/>
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
+
+		<mod-append:blueprint name="EB_DRONE_RAIL_1" rarity="4"/>
+		<mod-append:blueprint name="EB_DRONE_COIL_1" rarity="4"/>
+		<mod-append:blueprint name="EB_DRONE_GAUSS_1" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 
@@ -328,6 +373,7 @@
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
 
 		<mod-append:blueprint name="EB_AP_GAUSS" rarity="4"/>
+		<mod-append:blueprint name="EB_MACHINE_GUN_1_DRONE" rarity="4"/>
 	</mod:findLike>
 </mod:findName>
 <mod:findName type="sectorDescription" name="SLUG_HOME">
@@ -339,5 +385,10 @@
 		<mod-append:blueprint name="EB_COIL_GUN_2" rarity="4"/>
 
 		<mod-append:blueprint name="EB_AP_GAUSS" rarity="3"/>
+
+		<mod-append:blueprint name="EB_DRONE_COIL_1" rarity="5"/>
+		<mod-append:blueprint name="EB_DRONE_GAUSS_1" rarity="5"/>
+		<mod-append:blueprint name="EB_MACHINE_GUN_1_DRONE" rarity="5"/>
+		<mod-append:blueprint name="EB_AP_GAUSS_1_DRONE" rarity="5"/>
 	</mod:findLike>
 </mod:findName>  
