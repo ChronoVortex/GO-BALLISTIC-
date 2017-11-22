@@ -2,8 +2,8 @@
 
 --- ADDITIONS ---
 
-- ✓(RAVEN) Add new drone images (https://www.dropbox.com/s/sns48be2th7hpbj/EB%20New%20Drones.zip?dl=0)
-- ✓(RAVEN) Add railgun, AP gauss, gauss drone, rail drone and machinegun drone sector-specific rarities
+- ✓ (RAVEN) Add new drone images (https://www.dropbox.com/s/sns48be2th7hpbj/EB%20New%20Drones.zip?dl=0)
+- ✓ (RAVEN) Add railgun, AP gauss, gauss drone, rail drone and machinegun drone sector-specific rarities
 - (CNVTX)* Add machinegun array code
 - (CNVTX) Add assault gauss code (DO NOT add them to the ranged weapons list, DO add them to the DLC weapons list)
   - Flak, 2 projectiles for mark I, 3 projectiles for mark II
@@ -14,6 +14,9 @@
 
 --- FIXES ---
 
+- (CNVTX) Fix new drone images
+  - Machine I
+  - Gauss II
 - (CNVTX) See if Biohazard063 will test the weapon balance
 - (CNVTX) Test the events!
 
