@@ -14,9 +14,11 @@
 
 --- FIXES ---
 
-- (CNVTX) Fix new drone images
-  - Machine I
-  - Gauss II
+- (CNVTX) Fix new drones
+  - Machine I image doesn't show
+  - Gauss II image doesn't exist
+  - Gauss I projectile is sideways
+  - Rail I doesn't shoot
 - (CNVTX) See if Biohazard063 will test the weapon balance
 - (CNVTX) Test the events!
 
