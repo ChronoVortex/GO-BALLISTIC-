@@ -1073,12 +1073,12 @@
 </droneBlueprint>	-->
 
 <!--------------
-	RAILGUN, GAUSS RIFLE, COIlGUN DRONES
+	RAILGUN, GAUSS RIFLE, COILGUN DRONES
  -------------->
  
  
  <weaponBlueprint name="EB_DRONE_GAUSS_1">
-	<type>MISSILES</type>
+	<type>LASER</type>
 	<title>Drone Gauss</title>
 	<short>Drone Gauss</short>
 	<damage>1</damage>
@@ -1110,7 +1110,7 @@
 </weaponBlueprint>
 
 <weaponBlueprint name="EB_DRONE_GAUSS_2">
-	<type>MISSILES</type>
+	<type>LASER</type>
 	<title>Drone Gauss</title>
 	<short>Drone Gauss</short>
 	<damage>1</damage>
@@ -1142,7 +1142,7 @@
 </weaponBlueprint>
 
 <weaponBlueprint name="EB_DRONE_RAIL_1">
-	<type>MISSILES</type>
+	<type>LASER</type>
 	<title>Drone Rail</title>
 	<short>Drone Rail</short>
 	<damage>2</damage>
@@ -1175,7 +1175,7 @@
 </weaponBlueprint>
 
 <weaponBlueprint name="EB_DRONE_RAIL_2">
-	<type>MISSILES</type>
+	<type>LASER</type>
 	<title>Drone Rail</title>
 	<short>Drone Rail</short>
 	<damage>3</damage>
@@ -1308,7 +1308,7 @@
 	<cost>110</cost>
 	<bp>5</bp>
 	<droneImage>eb_rail_2_drone</droneImage>
-	<weaponBlueprint>EB_DRONE_GAUSS_2</weaponBlueprint>
+	<weaponBlueprint>EB_DRONE_RAIL_2</weaponBlueprint>
 	<rarity>5</rarity>
 	<iconImage>combat</iconImage>
 </droneBlueprint>
@@ -1361,7 +1361,7 @@
 	<speed>35</speed> <!-- Change this to increase/decrease firing speed -->
 	<cost>10</cost>
 	<bp>3</bp>
-	<droneImage>eb_drone_mg</droneImage>
+	<droneImage>eb_machine_gun_1_drone</droneImage>
 	<weaponBlueprint>EB_MACHINEGUN_1_DRONE_WEAPON</weaponBlueprint>
 	<rarity>3</rarity>
 </droneBlueprint>
