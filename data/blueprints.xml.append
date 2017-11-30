@@ -1141,7 +1141,7 @@
 	<weaponArt>missiles_1</weaponArt> 
 </weaponBlueprint>
 
-<weaponBlueprint name="EB_DRONE_RAIl_1">
+<weaponBlueprint name="EB_DRONE_RAIL_1">
 	<type>MISSILES</type>
 	<title>Drone Rail</title>
 	<short>Drone Rail</short>
@@ -1174,7 +1174,7 @@
 	<weaponArt>missiles_1</weaponArt> 
 </weaponBlueprint>
 
-<weaponBlueprint name="EB_DRONE_RAIl_2">
+<weaponBlueprint name="EB_DRONE_RAIL_2">
 	<type>MISSILES</type>
 	<title>Drone Rail</title>
 	<short>Drone Rail</short>
