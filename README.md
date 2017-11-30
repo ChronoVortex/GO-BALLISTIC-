@@ -2,23 +2,20 @@
 
 --- ADDITIONS ---
 
-- ✓ (RAVEN) Add new drone images (https://www.dropbox.com/s/sns48be2th7hpbj/EB%20New%20Drones.zip?dl=0)
+- (RAVEN) Add new drone stuff
+  - IMAGES LINK: https://www.dropbox.com/s/sns48be2th7hpbj/EB%20New%20Drones.zip?dl=0
+  - Coilgun and AP Gauss code
+  - Mark II images
 - ✓ (RAVEN) Add railgun, AP gauss, gauss drone, rail drone and machinegun drone sector-specific rarities
-- (CNVTX)* Add machinegun array code
+- (CNVTX) Add machinegun array code
+  - 1 power weapon, spools up like vulcan, goes from 5s cooldown to 1 (or even lower?), rest left for interpretation of ballance
 - (CNVTX) Add assault gauss code (DO NOT add them to the ranged weapons list, DO add them to the DLC weapons list)
   - Flak, 2 projectiles for mark I, 3 projectiles for mark II
 - (CNVTX) Add about a billion more events
 
-* I need your input on this before I do it.
-[Comment] (RAVEN) 1 power weapon, spools up like vulcan, goes from 5s cooldown to 1 (or even lower?), rest left for interpretation of ballance.
 
 --- FIXES ---
 
-- (CNVTX) Fix new drones
-  - Machine I image doesn't show
-  - Gauss II image doesn't exist
-  - Gauss I projectile is sideways
-  - Rail I doesn't shoot
 - (CNVTX) See if Biohazard063 will test the weapon balance
 - (CNVTX) Test the events!
 
