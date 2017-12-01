@@ -7,4 +7,4 @@
 <text name="tip_coil_gun">Tip: Coil guns pierce a single layer of shields. They fire more quickly than their gauss counterparts, at the expense of reduced accuracy. Additionally, gauss weapons are highly ranged, allowing occasional surprise attacks against enemies.</text>
 <text name="tip_rail">Tip: Railguns pierce one shield bubble. Additionally, gauss weapons are highly ranged, allowing occasional surprise attacks against enemies.</text>
 <text name="tip_ap_gauss">Tip: Antipersonnel gauss weapons can pierce shields, cause breaches and harm enemy crew. These weapons have no effect on the enemy shield, systems or hull.</text>
-<text name="tip_gauss_assault">Tip: Assault gauss weapons pierce one or more layers of shields. Additionally, they fire multiple projectiles at a time (like a space shotgun) at the expense of accuracy. This loss of accuracy makes ranged attacks impossible with these weapons.</text>
+<text name="tip_assault_gauss">Tip: Assault gauss weapons fire a spread of multiple shield piercing rounds at the cost of accuracy, making long ranged attacks unviable.</text>
