@@ -185,7 +185,7 @@
 <weaponAnim name="eb_ap_gauss_rifle_1">
 	<sheet>eb_ap_gauss_rifle_1</sheet>
 	<desc length="5" x="0" y="0"/>
-	<chargedFrame>0</chargedFrame>
+	<chargedFrame>1</chargedFrame>
 	<fireFrame>3</fireFrame>
 	<firePoint  x="9" y="16"/>
 	<mountPoint x="4" y="43"/>
