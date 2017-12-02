@@ -104,6 +104,16 @@
 	<chargeImage>weapons/eb_gauss_assault_2_glow.png</chargeImage>
 </weaponAnim>
 
+<animSheet name="eb_machinegun_array" w="150" h="60" fw="15" fh="60">weapons/eb_machinegun_array_1_strip10.png</animSheet>
+<weaponAnim name="eb_machinegun_array">
+	<sheet>eb_machinegun_array</sheet>
+	<desc length="10" x="0" y="0"/>
+	<chargedFrame>0</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="9" y="16"/>
+	<mountPoint x="4" y="43"/>
+</weaponAnim>
+
 <!-- ACTUAL PROJECTILES -->
 <animSheet name="eb_coil_shot" w="160" h="16" fw="40" fh="16">weapons/eb_gauss_shot_strip4.png</animSheet>
 

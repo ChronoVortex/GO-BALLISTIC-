@@ -555,6 +555,50 @@
 	<weaponArt>eb_gauss_assault_2</weaponArt> 
 </weaponBlueprint>
 
+<weaponBlueprint name="EB_MACHINEGUN_ARRAY">
+	<type>LASER</type>
+	<flavorType>Machinegun</flavorType>
+	<tip>tip_machinegun</tip>
+	<title>Machinegun Array</title>
+	<short>MG Ary.</short>
+	<desc>This wachinegun takes several seconds to warm up. Each time it fires it decreases the cooldown, eventually reaching rapid fire.</desc>
+	<tooltip>Fast cooldown. Does 15 personel damage per shot</tooltip>
+	<damage>0</damage>
+	<persDamage>1</persDamage>
+	<shots>1</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>5.6</cooldown>
+	<power>1</power>
+	<cost>10</cost>
+	<bp>7</bp>
+	<rarity>3</rarity>
+	<image>eb_machinegun_shot</image>
+	<boost>
+		<type>cooldown</type>
+		<amount>0.8</amount>
+		<count>6</count>
+	</boost>
+	<launchSounds>
+		<sound>eb_machinegun_fire1</sound>
+		<sound>eb_machinegun_fire2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>mgHitShield1</sound>
+		<sound>mgHitShield2</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>mgMiss1</sound>
+		<sound>mgMiss2</sound>
+	</missSounds>
+	<weaponArt>eb_machinegun_array</weaponArt> 
+</weaponBlueprint>
+
 <mod:findName type="blueprintList" name="DLC_ITEMS">
    <mod-append:name>EB_AUTOCANNON_ROTARY_1</mod-append:name>
    <mod-append:name>EB_AUTOCANNON_ROTARY_2</mod-append:name>
@@ -567,4 +611,5 @@
    <mod-append:name>EB_EB_COIL_GUN_3</mod-append:name>
    <mod-append:name>EB_ASSAULT_GAUSS_1</mod-append:name>
    <mod-append:name>EB_ASSAULT_GAUSS_2</mod-append:name>
+   <mod-append:name>EB_MACHINEGUN_ARRAY</mod-append:name>
 </mod:findName>
