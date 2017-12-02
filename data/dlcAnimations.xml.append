@@ -82,6 +82,28 @@
 	<chargeImage>weapons/eb_coil_gun_3_glow.png</chargeImage>
 </weaponAnim>
 
+<animSheet name="eb_gauss_assault_1" w="240" h="157" fw="30" fh="157">weapons/eb_gauss_assault_1_strip8.png</animSheet>
+<weaponAnim name="eb_gauss_assault_1">
+	<sheet>eb_gauss_assault_1</sheet>
+	<desc length="8" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint  x="13" y="37"/>
+	<mountPoint x="3" y="102"/>
+	<chargeImage>weapons/eb_gauss_assault_1_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="eb_gauss_assault_2" w="232" h="157" fw="29" fh="157">weapons/eb_gauss_assault_2_strip8.png</animSheet>
+<weaponAnim name="eb_gauss_assault_2">
+	<sheet>eb_gauss_assault_2</sheet>
+	<desc length="8" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>5</fireFrame>
+	<firePoint  x="13" y="37"/>
+	<mountPoint x="3" y="102"/>
+	<chargeImage>weapons/eb_gauss_assault_2_glow.png</chargeImage>
+</weaponAnim>
+
 <!-- ACTUAL PROJECTILES -->
 <animSheet name="eb_coil_shot" w="160" h="16" fw="40" fh="16">weapons/eb_gauss_shot_strip4.png</animSheet>
 

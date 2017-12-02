@@ -466,6 +466,95 @@
 	<weaponArt>eb_coil_gun_3</weaponArt> 
 </weaponBlueprint>
 
+<weaponBlueprint name="EB_ASSAULT_GAUSS_1">
+	<type>BURST</type>
+	<drone_targetable>2</drone_targetable>
+	<flavorType>Gauss</flavorType>
+	<title>Assault Gauss Mark I</title>
+	<short>Assault Gauss I</short>
+	<tip>tip_assault_gauss</tip>
+	<desc>The Mk. I Assault Gauss rifle fires a spread of 2 shield peircing shots dealing 1 damage each.</desc>
+	<tooltip>Fires a blast of across a random area doing up to 2 damage.</tooltip>
+	<radius>30</radius>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>6</breachChance>
+	<cooldown>14</cooldown>
+	<power>2</power>
+	<cost>76</cost>
+	<bp>10</bp>
+	<speed>130</speed>
+	<rarity>5</rarity>
+	<projectiles>
+		<projectile count="2" fake="false">eb_gauss_shot</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_gauss_assault_1</weaponArt> 
+</weaponBlueprint>
+
+<weaponBlueprint name="EB_ASSAULT_GAUSS_2">
+	<type>BURST</type>
+	<drone_targetable>2</drone_targetable>
+	<flavorType>Gauss</flavorType>
+	<title>Assault Gauss Mark II</title>
+	<short>Assault Gauss II</short>
+	<tip>tip_assault_gauss</tip>
+	<desc>The Mk. II Assault Gauss rifle fires a spread of 3 shield peircing shots dealing 1 damage each.</desc>
+	<tooltip>Fires a blast of across a random area doing up to 3 damage.</tooltip>
+	<radius>50</radius>
+	<damage>1</damage>
+	<shots>1</shots>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>6</breachChance>
+	<cooldown>18</cooldown>
+	<power>3</power>
+	<cost>84</cost>
+	<bp>10</bp>
+	<speed>130</speed>
+	<rarity>5</rarity>
+	<projectiles>
+		<projectile count="3" fake="false">eb_gauss_shot</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>eb_halo_gauss_fire1</sound>
+		<sound>eb_halo_gauss_fire2</sound>
+		<sound>eb_halo_gauss_fire3</sound>
+		<sound>eb_halo_gauss_fire4</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eb_gauss_assault_2</weaponArt> 
+</weaponBlueprint>
+
 <mod:findName type="blueprintList" name="DLC_ITEMS">
    <mod-append:name>EB_AUTOCANNON_ROTARY_1</mod-append:name>
    <mod-append:name>EB_AUTOCANNON_ROTARY_2</mod-append:name>
@@ -476,4 +565,6 @@
    <mod-append:name>EB_EB_COIL_GUN_1</mod-append:name>
    <mod-append:name>EB_EB_COIL_GUN_2</mod-append:name>
    <mod-append:name>EB_EB_COIL_GUN_3</mod-append:name>
+   <mod-append:name>EB_ASSAULT_GAUSS_1</mod-append:name>
+   <mod-append:name>EB_ASSAULT_GAUSS_2</mod-append:name>
 </mod:findName>

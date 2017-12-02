@@ -497,8 +497,8 @@
 	<sp>2</sp>
 	<fireChance>0</fireChance>
 	<breachChance>7</breachChance>
-	<cooldown>14</cooldown>
-	<power>3</power>
+	<cooldown>12</cooldown>
+	<power>2</power>
 	<cost>80</cost>
 	<bp>7</bp>
 	<rarity>5</rarity>
@@ -539,7 +539,7 @@
 	<fireChance>0</fireChance>
 	<breachChance>8</breachChance>
 	<cooldown>15</cooldown>
-	<power>4</power>
+	<power>2</power>
 	<cost>111</cost>
 	<bp>7</bp>
 	<rarity>5</rarity>
