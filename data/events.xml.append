@@ -163,3 +163,36 @@
 		</choice>
 	</event>
 </eventList>
+
+<mod:findName type="event" name="QUEST_MANTIS_INVASION">
+	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
+		<text>(Ranged Weapon) Fire on their their key structures from a distance.</text>
+		<event load="PIRATE_STATION_CROPS_SHOOT_RANGED"/>	
+	</mod-append:choice>
+</mod:findName>
+<eventList name="QUEST_MANTIS_SHOOT_RANGED">
+	<event>
+		<text>You fire at their fuel depot from as far as possible. Their defense systems begin firing on the projectile, but it’s too fast to intercept! On impact, the fuel depot explodes. Mantis comm channels fill with panicked chatter and you watch a number of other structures go up in flames.</text>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event>
+				<text>With most of their ships and forces focused on the chaos, you slip undetected to a nearby depot. You find some useful resources and an Engi slave who gladly accepts your liberation.</text>
+				<autoReward level="HIGH">stuff</autoReward>
+				<crewMember amount="1" class="engi"/>
+			</event>
+		</choice>
+	</event>
+	<event>
+		<text>You fire at their fuel depot from as far as possible. Frantic shots begin to come from the surface, and a lucky one rips the projectile to shreds! A nearby patrol ship moves in to attack, but it’s too far away to reach you before the FTL drive charges if you leave.</text>
+		<ship load="MANTIS_LANDING_PARTY" hostile="false"/>
+		<choice>
+			<text>Let's get out of here.</text>
+			</event>
+		</choice>
+		<choice>
+			<text>Engage the patrol ship.</text>
+			<ship hostile="true"/>
+			<event/>
+		</choice>
+	</event>
+</eventList>
