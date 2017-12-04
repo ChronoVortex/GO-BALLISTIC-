@@ -10,6 +10,11 @@ You can also use “ranged weapons” to try to deal a first strike against an e
 
 If you want to see if a weapon is ranged, check its tip in the equipment tab.
 
+Making this mod work perfectly with Captain’s Edition is a bit of a pain, but it's doable. Despite what the load order in the CE thread says, you’ll want to load the mods in this order:
+	- GO BALLISTIC! CE DLC Blueprints Overwrite Patch
+	- All CE resources, data and patches (in the order specified in the CE thread)
+	- GO BALLISTIC! (main mod)
+	- Any ship mods you are using
 ]]>
   </description>
 </metadata>
