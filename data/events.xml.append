@@ -164,6 +164,51 @@
 	</event>
 </eventList>
 
+<mod:findName type="event" name="QUEST_STORE_RESCUE">
+	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
+		<text>(Ranged Weapon) Shoot at the Rebel ship from a distance.</text>
+		<event load="QUEST_STORE_RESCUE_SHOOT_RANGED"/>	
+	</mod-append:choice>
+</mod:findName>
+<eventList name="QUEST_STORE_RESCUE_SHOOT_RANGED">
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="SQUAT_STORE_RESCUE" hostile="true"/>
+		<status type="loss" target="enemy" system="weapons" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="SQUAT_STORE_RESCUE" hostile="true"/>
+		<status type="loss" target="enemy" system="shields" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="SQUAT_STORE_RESCUE" hostile="true"/>
+		<status type="loss" target="enemy" system="engines" amount="1"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. It hits and disrupts one of their systems. They move in to engage.</text>
+		<ship load="SQUAT_STORE_RESCUE" hostile="true"/>
+		<status type="loss" target="enemy" system="pilot" amount="1"/>
+	</event>
+		<event>
+		<text>You fire your weapon at the Rebel ship, but they activate their thrusters just in time to avoid it. They move in to engage.</text>
+		<ship load="SQUAT_STORE_RESCUE" hostile="true"/>
+	</event>
+	<event>
+		<text>You fire your weapon at the Rebel ship. A direct hit beaches their main reactor, causing the ship explode. You move in to scrap the debris.</text>
+		<choice hidden="true">
+			<text>Continue...</text>
+				<event>
+					<text>The outpost hails you, "Thank you! I don't know what we did to anger the Rebels, but they were ready to kill us. I'll show you our goods and patch up your hull."</text>
+					<autoReward level="MED">scrap_only</autoReward>
+					<damage amount="-5"/>
+					<store/>
+				</event>
+		</choice>
+	</event>
+</eventList>
+
 <mod:findName type="event" name="QUEST_MANTIS_INVASION">
 	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
 		<text>(Ranged Weapon) Fire on their their key structures from a distance.</text>
