@@ -212,7 +212,7 @@
 <mod:findName type="event" name="QUEST_MANTIS_INVASION">
 	<mod-append:choice hidden="true" req="WEAPONS_RANGED">
 		<text>(Ranged Weapon) Fire on their their key structures from a distance.</text>
-		<event load="PIRATE_STATION_CROPS_SHOOT_RANGED"/>	
+		<event load="QUEST_MANTIS_SHOOT_RANGED"/>	
 	</mod-append:choice>
 </mod:findName>
 <eventList name="QUEST_MANTIS_SHOOT_RANGED">
