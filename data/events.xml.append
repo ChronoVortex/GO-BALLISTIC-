@@ -155,8 +155,8 @@
 		<ship load="REBEL_VS_FEDERATION" hostile="true"/>
 	</event>
 	<event>
-		<text>You fire your weapon at the Rebel ship. A direct hit beaches their main reactor, causing the ship explode. You move in to scrap the debris and contact the Federation vessel.</text>
-		<autoReward level="MED">standard</autoReward>
+		<text>You fire your weapon at the Rebel ship. A direct hit beaches their main reactor, disabling it completely. All life signs aboard the vessel disappear in moments. You move in to scrap the debris and contact the Federation vessel.</text>
+		<autoReward level="HIGH">standard</autoReward>
 		<choice hidden="true">
 			<text>Continue...</text>
 			<event load="REBEL_VS_FEDERATION_SAVED_LIST"/>
