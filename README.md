@@ -12,6 +12,7 @@
 - ✓ (CNVTX) Add assault gauss code (DO NOT add them to the ranged weapons list, DO add them to the DLC weapons list)
   - Flak, 2 projectiles for mark I, 3 projectiles for mark II
 - (CNVTX) Add about a billion more events
+  - 2 to 3 events in which enemies do ranged attacks
 
 
 --- FIXES ---
