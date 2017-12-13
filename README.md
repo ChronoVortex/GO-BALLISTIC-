@@ -25,3 +25,4 @@
 - Full CE compatability patch
   - (RAVEN) CE sector-specific rarities
   - (CNVTX) CE ranged weapon events
+  - (CNVTX) Add railguns to AI weapon list
