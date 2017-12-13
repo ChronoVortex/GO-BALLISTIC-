@@ -13,6 +13,7 @@
   - Flak, 2 projectiles for mark I, 3 projectiles for mark II
 - (CNVTX) Add about a billion more events
   - 2 to 3 events in which enemies do ranged attacks
+    - Slugs and slig sectors are good for this
 
 
 --- FIXES ---
