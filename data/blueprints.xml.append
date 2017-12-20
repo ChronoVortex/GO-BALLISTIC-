@@ -1273,7 +1273,7 @@
 	<bp>5</bp>
 	<droneImage>eb_gauss_2_drone</droneImage>
 	<weaponBlueprint>EB_DRONE_GAUSS_2</weaponBlueprint>
-	<rarity>5</rarity>
+	<rarity>0</rarity>
 	<iconImage>combat</iconImage>
 </droneBlueprint>
 
@@ -1309,7 +1309,7 @@
 	<bp>5</bp>
 	<droneImage>eb_rail_2_drone</droneImage>
 	<weaponBlueprint>EB_DRONE_RAIL_2</weaponBlueprint>
-	<rarity>5</rarity>
+	<rarity>0</rarity>
 	<iconImage>combat</iconImage>
 </droneBlueprint>
 
