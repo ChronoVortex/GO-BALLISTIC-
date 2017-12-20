@@ -7,10 +7,6 @@
   - Coilgun and AP Gauss code
   - Mark II images
 - (RAVEN) Add machinegun array and assault gauss sector-specific rarities
-- ✓ (CNVTX) Add machinegun array code (DLC weapons list)
-  - 1 power weapon, spools up like vulcan, goes from 5s cooldown to 1 (or even lower?), rest left for interpretation of ballance
-- ✓ (CNVTX) Add assault gauss code (DO NOT add them to the ranged weapons list, DO add them to the DLC weapons list)
-  - Flak, 2 projectiles for mark I, 3 projectiles for mark II
 - (CNVTX) Add about a billion more events
   - 2 to 3 events in which enemies do ranged attacks
     - Slugs and slug sectors are good for this
@@ -27,4 +23,3 @@
 - Full CE compatability patch
   - (RAVEN) CE sector-specific rarities
   - (CNVTX) CE ranged weapon events
-  - (CNVTX) Add railguns to AI weapon list
